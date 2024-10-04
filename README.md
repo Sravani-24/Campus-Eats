@@ -8,6 +8,7 @@ Personalized recommendations
 Integration with campus meal plans
 By streamlining the food ordering process, Campus Eats not only enhances convenience but also supports local food vendors and promotes a vibrant campus culinary culture.
 
+
 **Features**
 
 User-friendly Interface: Easy browsing of menus and ordering through web or mobile platforms.
@@ -17,6 +18,7 @@ Personalized Recommendations: Suggested items based on user preferences and past
 Reduced Wait Times: Pre-ordering feature helps eliminate long physical queues.
 Inventory Integration: Real-time tracking of menu items and stock availability.
 
+
 **System Architecture**
 
 The system is designed with a modular architecture to enhance scalability and efficiency. The primary components are:
@@ -25,6 +27,7 @@ Frontend: Built using HTML, CSS, and JavaScript.
 Backend: Developed with Node.js and MySQL for data storage.
 Database: MySQL manages all user and order data.
 The flow is simple: users browse available items, place orders, complete secure payments, and the canteen staff manages these orders via an admin panel.
+
 
 **Modules**
 
@@ -42,10 +45,13 @@ Users can browse the menu, place orders, and get order confirmation.
 Admin Panel:
 Manages orders, user accounts, and operational settings for the canteen staff.
 
+
 **Technology Stack**
 
 Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js (Express.js)
+
 Database: MySQL
+
 Payment Integration: Secure online payment gateways
