@@ -1,5 +1,5 @@
-#Campus Eats
-
+**Campus Eats
+**
 Campus Eats is an online food ordering platform designed for the Geethanjali College of Engineering and Technology. It aims to enhance the dining experience for students, faculty, and staff by providing a seamless and convenient way to order food from campus eateries, eliminating the need for physical queues and manual transactions
 
 Campus Eats provides users with easy access to a wide range of dining choices, including on-campus restaurants and food delivery services. Users can browse menus, place orders, and make payments directly from their devices. The platform also includes features such as:
