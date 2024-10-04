@@ -45,6 +45,7 @@ Manages orders, user accounts, and operational settings for the canteen staff.
 **Technology Stack**
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js (Express.js)
 Database: MySQL
 Payment Integration: Secure online payment gateways
